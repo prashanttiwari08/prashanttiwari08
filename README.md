@@ -1,69 +1,125 @@
-## Hey 👋, I'm Prashant Tiwari!
-<a href="https://www.linkedin.com/in/prashant-tiwari-412546328/">
-  <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="18px"/>
-</a>
+<h1 align="center">Hey 👋, I'm Prashant Tiwari!</h1>
 
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/prshntiwri/">
-  <img align="left" alt="LeetCode" height="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"/>
-</a>
-<br>
-
-I am Prashant Tiwari, a B.Tech Computer Science Engineering (AI & ML) student passionate about Software Development 💻, Cloud Computing ☁️, Artificial Intelligence 🤖, and Problem Solving 🧩.
-
-I enjoy building scalable applications using Java ☕, Web Development 🌐, and AWS Cloud ☁️ while continuously exploring new technologies and turning ideas into real-world projects 🚀.
-
-I actively participate in hackathons 🏆, coding challenges ⚡, and development projects to strengthen my technical skills and create impactful solutions. Currently, I am focused on improving my Data Structures & Algorithms 📚, Full Stack Development 🌍, and Machine Learning 🤖 expertise.
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
-
-💻   I primarily work with Java, Web Development, and AWS Cloud.
-<br>
-🌱   Currently learning Full Stack Development.
-<br>
-🚀   I enjoy building real-world projects and exploring new technologies. <br>
-🏆   Participated in Smart India Hackathon (SIH) and various coding competitions. <br>
-📚   Actively practicing Data Structures & Algorithms and solving problems on LeetCode. <br>
-👨🏻‍💻 &nbsp; Browse my projects and contributions on <a href="https://github.com/prashanttiwari08?tab=repositories" target="_blank">GitHub Repositories</a>. <br>
-💬   Feel free to ask me about Java, DSA, Web Development, AWS, or Programming. <br>
-📫 &nbsp; Let's connect and grow together on <a href="https://www.linkedin.com/in/prashant-tiwari-412546328/">LinkedIn</a>.<br>
-📝 &nbsp; Check out my <a href="https://drive.google.com/file/d/19bxBODq5Ux6c9L6lG_7Q5zXqzrbgBLHt/view?usp=sharing" target="_blank">Resume</a> to learn more about my skills, certifications, and project experience. <br>
-🎬   In my free time, I enjoy watching web series and exploring new tech content. <br>
-
-<br>
-
-### 🔨 Languages and Tools:
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-<img align="left" alt="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<br>
-
-### 🛠️ My Projects
-<h3>🚀 AI-Powered Complaint Register</h3>
-
-<p>
-  <a href="https://github.com/prashanttiwari08/Complaint-Register">🔗 View Project</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashant-tiwari-412546328/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="26px"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/prshntiwri/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="26px"/>
+  </a>
+  &nbsp;
+  <a href="mailto:prashanttiwari6749@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="26px"/>
+  </a>
 </p>
 
-<p>
-Developed an AI-powered complaint management platform where users can report issues from their locality. The application intelligently analyzes complaint descriptions, categorizes them, and suggests possible solutions, making the reporting process faster and more effective.
+<img align="right" alt="Coding GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320px"/>
+
+I'm Prashant, a **Full-Stack Developer** 💻 and **AI/ML enthusiast** 🤖, currently pursuing my B.Tech in Computer Science (AI & ML) at KIET Group of Institutions, Ghaziabad. I love turning ideas into working products, solving problems 🧩, and figuring out how systems fit together end to end.
+
+I mostly build with the **MERN Stack** 🌐 — MongoDB, Express, React, and Node.js — and I'm steadily expanding into cloud technologies with **AWS** ☁️. Alongside development, I spend a good chunk of my time on **DSA in Java**, sharpening the fundamentals that make everything else easier.
+
+I enjoy hackathons, fast prototyping, and shipping full projects from idea to deployment. Right now I'm focused on strengthening my **AI/ML foundations**, growing my **cloud skills**, and becoming a more well-rounded software engineer.
+
+<br clear="right"/>
+
+---
+
+### 🧐 More About Me
+
+- 💻 &nbsp; I primarily work with the **MERN Stack** (MongoDB, Express, React, Node.js)
+- ☁️ &nbsp; Exploring **AWS Cloud** and working toward AI/Cloud certifications
+- 🧠 &nbsp; Learning core **AI/ML algorithms** and data structures alongside coursework
+- 📚 &nbsp; Practicing **DSA in Java** — consistent problem solving on LeetCode
+- 🏆 &nbsp; I enjoy hackathons and building complete projects under time pressure
+- 👨🏻‍💻 &nbsp; Browse my work on my <a href="https://github.com/prashanttiwari08?tab=repositories" target="_blank">GitHub Repositories</a>
+- 💬 &nbsp; Happy to talk about React, Node.js, DSA, or Machine Learning
+- 📫 &nbsp; Let's connect and grow together on <a href="https://www.linkedin.com/in/prashant-tiwari-412546328/">LinkedIn</a>
+
+<br>
+
+---
+
+### 🔨 Languages and Tools
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="42px" alt="JavaScript"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="42px" alt="React"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="42px" alt="NodeJS"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="42px" alt="Python"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="42px" alt="Java"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="42px" alt="MongoDB"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="42px" alt="Express"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42px" alt="AWS"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="42px" alt="Git"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="42px" alt="GitHub"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="42px" alt="VSCode"/>
 </p>
 
-<b>Key Features:</b>
+<br>
 
+---
+
+### 🛠️ Featured Projects
+
+<h4>🚀 AI-Powered Complaint Register</h4>
+<p>An AI-powered complaint management platform where users report civic issues from their locality. The app analyzes complaint descriptions, categorizes them intelligently, and suggests possible solutions — making reporting faster and more effective.</p>
 <ul>
   <li>🤖 AI-based complaint understanding</li>
   <li>📋 Automated complaint categorization</li>
   <li>💡 Smart solution recommendations</li>
   <li>🌍 Accessible web platform for citizens</li>
 </ul>
+
+<h4>🎮 Code Match</h4>
+<p>A developer-themed memory card matching game built solo in 24 hours during a game jam, with a full MERN stack — React frontend and an Express + MongoDB backend.</p>
+
+<h4>🧑‍💼 Candidate Shortlisting System</h4>
+<p>A full-stack MERN application that streamlines candidate shortlisting, integrated with AI (via OpenRouter, using Mistral/LLaMA models) to assist in evaluating and ranking candidates.</p>
+
+<h4>📊 Employee Analytics</h4>
+<p>A MERN-based analytics application for tracking and visualizing employee data, also integrated with AI models through OpenRouter for smarter insights.</p>
+
+<p align="left">
+  👉 <a href="https://github.com/prashanttiwari08?tab=repositories" target="_blank"><b>See all my repositories →</b></a>
+</p>
+
+<br>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prashanttiwari08&theme=default"/>
+<img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prashanttiwari08&theme=default"/>
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=prashanttiwari08&theme=default&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+### 🧩 LeetCode Stats
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/prshntiwri?theme=light&font=baloo2&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+<br>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+📫 **Let's connect:** &nbsp;
+<a href="https://www.linkedin.com/in/prashant-tiwari-412546328/">LinkedIn</a> &nbsp;•&nbsp;
+<a href="https://leetcode.com/u/prshntiwri/">LeetCode</a> &nbsp;•&nbsp;
+<a href="mailto:prashanttiwari6749@gmail.com">Gmail</a>
+
+*Code. Learn. Ship. Repeat.* 🚀
+
+</div>
